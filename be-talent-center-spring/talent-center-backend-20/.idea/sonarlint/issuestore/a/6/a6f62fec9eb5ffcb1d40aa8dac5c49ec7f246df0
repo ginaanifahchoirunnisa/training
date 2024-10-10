@@ -1,0 +1,72 @@
+
+a	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(”œŸşÿÿÿÿ
+a	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ
+a	java:S112á"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ
+g	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëä‘
+6
+java:S1170h"!Make this final field static too.(åî³
+m
+java:S3776k"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¡æ¿ûÿÿÿÿ
+E	java:S106t"+Replace this use of System.out by a logger.(–Ã¡™üÿÿÿÿ
+E	java:S106u"+Replace this use of System.out by a logger.(æØÂŸüÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(ßğŒ×
+A	java:S106“"+Replace this use of System.out by a logger.(ñÈàÁ
+A	java:S106•"+Replace this use of System.out by a logger.(ÕéÕç
+A	java:S106—"+Replace this use of System.out by a logger.(ş®¥õ
+F	java:S106œ"+Replace this use of System.out by a logger.(Â¹÷›şÿÿÿÿ
+F	java:S106¡"+Replace this use of System.out by a logger.(ş‚‰‘ıÿÿÿÿ
+Y
+java:S1854Ï"BRemove this useless assignment to local variable "employeeStatus".(‰Ò¬Ğ
+J
+java:S1481Ï"3Remove this unused "employeeStatus" local variable.(‰Ò¬Ğ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(òÇŞ÷úÿÿÿÿ
+R	java:S125ë"<This block of commented-out lines of code should be removed.(Ë—Ñ’
+Q
+java:S1854":Remove this useless assignment to local variable "client".(·¶¢­
+U
+java:S1854">Remove this useless assignment to local variable "talentList".(®ğû
+F
+java:S1481"/Remove this unused "talentList" local variable.(®ğû
+K
+java:S1481¹"/Remove this unused "totRequest" local variable.(¸½÷Šùÿÿÿÿ
+R	java:S125À"<This block of commented-out lines of code should be removed.(Ş§ˆÙ
+W	java:S125ò"<This block of commented-out lines of code should be removed.(ËæÕ™øÿÿÿÿ
+n
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(¡¤¤Øøÿÿÿÿ
+U
+java:S1854Ó"9Remove this useless assignment to local variable "cvUrl".(ƒĞÙ°şÿÿÿÿ
+R	java:S125·"<This block of commented-out lines of code should be removed.(Şß»±
+F	java:S106Ê"+Replace this use of System.out by a logger.(’÷™üÿÿÿÿ
+F	java:S106Î"+Replace this use of System.out by a logger.(Â¬Ó¢øÿÿÿÿ
+Q	java:S125Í"<This block of commented-out lines of code should be removed.(Î¿«k
+A	java:S106Ô"+Replace this use of System.out by a logger.(Šı÷Ò
+F	java:S106Ø"+Replace this use of System.out by a logger.(±€Öûÿÿÿÿ
+R	java:S125à"<This block of commented-out lines of code should be removed.(’äµ©
+W	java:S125ç"<This block of commented-out lines of code should be removed.(×¬êíşÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(½öÓºşÿÿÿÿ
+R	java:S125ì"<This block of commented-out lines of code should be removed.(©œä÷
+F	java:S106ô"+Replace this use of System.out by a logger.(©šıÿÿÿÿ
+F	java:S106ö"+Replace this use of System.out by a logger.(Óôûúüÿÿÿÿ
+A	java:S106ù"+Replace this use of System.out by a logger.(’§ÁË
+F	java:S106û"+Replace this use of System.out by a logger.(¦ë´§øÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(˜¥ÿèúÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(Ø€é‚ıÿÿÿÿ
+U
+java:S1155†">Use isEmpty() to check whether the collection is empty or not.(¸•Òš
+A	java:S106‡"+Replace this use of System.out by a logger.(ÄÏÁü
+F	java:S106Š"+Replace this use of System.out by a logger.(†î’Œÿÿÿÿÿ
+@	java:S106—"+Replace this use of System.out by a logger.(’Ì©
+A	java:S106š"+Replace this use of System.out by a logger.(¾øâ•
+U
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(ÓÔ³Ğ
+F	java:S106¢"+Replace this use of System.out by a logger.(Ìğ„Äøÿÿÿÿ
+F	java:S106¤"+Replace this use of System.out by a logger.(õ²Şûÿÿÿÿ
+R	java:S125§"<This block of commented-out lines of code should be removed.(¯£¯”
+V
+java:S1854³"?Remove this useless assignment to local variable "currentTime".(èìª¤
+G
+java:S1481³"0Remove this unused "currentTime" local variable.(èìª¤
+W	java:S125¾"<This block of commented-out lines of code should be removed.(÷ÿøûÿÿÿÿ
+F	java:S106à"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ
+E
+java:S1068$"*Remove this unused "logger" private field.(û«öÓÿÿÿÿÿ
